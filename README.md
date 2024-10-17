@@ -1,2 +1,2 @@
-# RCJ-Soccer2025-Softwere
+# RCJ-Soccer2025-Software
 サッカーロボットを作ります。
